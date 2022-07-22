@@ -1,3 +1,3 @@
 # cancer-diagnostics
 
-Cancer diagnostics has accuracy more than 90%.
+Cancer diagnostic has an accuracy of more than 90%.
